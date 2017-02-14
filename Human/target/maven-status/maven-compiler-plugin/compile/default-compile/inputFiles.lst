@@ -1,0 +1,10 @@
+/home/patrykszczur/workspace/Human/src/main/java/com/human/config/HibernateConfiguration.java
+/home/patrykszczur/workspace/Human/src/main/java/com/human/dao/HumanDao.java
+/home/patrykszczur/workspace/Human/src/main/java/com/human/service/HumanService.java
+/home/patrykszczur/workspace/Human/src/main/java/com/human/dao/AbstractDao.java
+/home/patrykszczur/workspace/Human/src/main/java/com/human/service/HumanServiceImple.java
+/home/patrykszczur/workspace/Human/src/main/java/com/human/dao/HumanDaoImpl.java
+/home/patrykszczur/workspace/Human/src/main/java/com/human/model/Human.java
+/home/patrykszczur/workspace/Human/src/main/java/com/human/config/AppInitializer.java
+/home/patrykszczur/workspace/Human/src/main/java/com/human/config/AppConfig.java
+/home/patrykszczur/workspace/Human/src/main/java/com/human/controller/HumanController.java
